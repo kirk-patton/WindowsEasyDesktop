@@ -54,6 +54,13 @@ the person connecting.
 * Drag Remote Desktop [URL](https://remotedesktop.google.com/support/) To Desktop 
   * Drag Icon to Nexus Launcher
 
+## Hide Desktop Icons
+
+These are a source of confusion and disarray.  Turn off desktop icons. Add anything that is actually required to the Nexus launcher and make sure it is started maximized.
+
+* Right Click Desktop
+  * View -> Show Icons (Toggle)
+
 ## Other Customizations
 
 The above customizations may be enough, but here are some more that may be useful.
@@ -66,3 +73,13 @@ The above customizations may be enough, but here are some more that may be usefu
 
 This will make Windows less sensitive to accidental drag operations by increasing the number of pixels traversed.  
 
+* Disable Double Click To Start A Program
+  * Open File Manager
+  * File -> Options -> General Tab -> Single Click To Open An Item
+
+Now, programs are started with a single click. No more adjusting double click speed or explaining what a double click even is.
+
+* Install Microsoft [Power Toys](https://github.com/microsoft/PowerToys)
+  * Disable All But "Power Toys Run"
+
+This will give a Mac Spotlight Like Experience.  Maybe too complex for some people, but I like it...
