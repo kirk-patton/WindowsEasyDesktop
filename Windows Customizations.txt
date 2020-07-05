@@ -1,0 +1,37 @@
+Tip for making Windows 10 nicer to use, especially for Seniors
+
+
+1. Set the Windows Taskbar to autohide
+   Right Click empty area of taskbar and select "Taskbar Settings"
+   "Automatically Hide Taskbar in Desktop Mode"
+ 
+
+2. Install Nexus Desktop Launcher =>  http://www.winstep.net/
+   Removed default icons
+   Set to left hand side "Preferences Position"o
+   Always on Top & Autohide "Preference Behavior"
+   - Auto Hide After Short Delay
+     Set to 1000ms in "Autohide Settings"
+
+   Drag Icons to Nexus launcher
+   - Firfox
+   - Email
+   - Remote Support  => https://remotedesktop.google.com/support/
+
+3. Disable Icons on the Desktop
+   On the desktop, right click and choose View->Show Desktop Icons (Toggle)
+
+
+4. Install Windows Power Toys
+   Enable "Power Toys Run"
+
+5. Enable "Single Click" to launch applications
+   File Explorer -> File -> Options-> Single Click To Open an Item
+
+6. Increase DragNDrop threshold
+    https://winaero.com/blog/change-drag-drop-sensitivity-windows-10/
+   regedit -> HKEY_CURRENT_USER\Control Panel\Desktop
+   DragHeight = 100
+   DragWidth = 100
+   
+   
