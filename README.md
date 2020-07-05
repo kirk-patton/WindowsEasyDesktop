@@ -25,5 +25,6 @@ Git rid of Windows distractions that cause confusion and disable or simplify fea
 
 * Set Windows Task bar to AutoHide
 
-```Right Click empty area of taskbar and select "Taskbar Settings"
-   "Automatically Hide Taskbar in Desktop Mode"```
+```
+Right Click empty area of taskbar and select "Taskbar Settings" => "Automatically Hide Taskbar in Desktop Mode"
+```
