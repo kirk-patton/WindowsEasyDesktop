@@ -39,3 +39,15 @@ Right Click empty area of taskbar and select "Taskbar Settings" => "Automaticall
   * Auto Hide For Maximized Applications (Behavior)
   * Lock Icons And Prevent Dragging (Behavior)
 
+### Set Programs To Maximize By Default
+
+Multiple open windows can be very confusing for seniors.  This is especially try if the program was opened by accident.  By reducing the number of programs the user can choose from, this problem can be reduced.  If we go a step further and maximize each of the programs and then close it, windows will remember that setting.  The next time the program is opened it will be maximized.
+
+Combined with the Nexus launcher settings, the user will be presented with a maximized instance of each program they launch.
+
+## Remote Desktop
+
+Google makes an easy to use [remote desktop](https://remotedesktop.google.com/access/) solution.
+The chrome browser is required at both ends.  The user sharing there desktop generates an access code that is shared with 
+the person connecting.
+
