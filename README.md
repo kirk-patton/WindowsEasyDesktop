@@ -34,9 +34,6 @@ Right Click empty area of taskbar and select "Taskbar Settings" => "Automaticall
   * Drag & Drop Limited Set Of Programs To Launcher (Email/Web/Remote Support)
   * Set Position Left Side (Preferences Position)
   * Always on Top (Preferences Behavior)
-  * Auto Hide After Short Delay (Behavior)
-    1000ms (Auto Hide Settings)
-  * Auto Hide For Maximized Applications (Behavior)
   * Lock Icons And Prevent Dragging (Behavior)
 
 ### Set Programs To Maximize By Default
