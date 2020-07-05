@@ -51,3 +51,18 @@ Google makes an easy to use [remote desktop](https://remotedesktop.google.com/ac
 The chrome browser is required at both ends.  The user sharing there desktop generates an access code that is shared with 
 the person connecting.
 
+* Drag Remote Desktop [URL](https://remotedesktop.google.com/support/) To Desktop 
+  * Drag Icon to Nexus Launcher
+
+## Other Customizations
+
+The above customizations may be enough, but here are some more that may be useful.
+
+* Change Drag & Drop Threshold
+  * Open Registry Editor
+  * ```HKEY_CURRENT_USER\Control Panel\Desktop```
+  * DragHeight 100
+  * DragWidth 100
+
+This will make Windows less sensitive to accidental drag operations by increasing the number of pixels traversed.  
+
