@@ -38,7 +38,7 @@ Right Click empty area of taskbar and select "Taskbar Settings" => "Automaticall
 
 ### Set Programs To Maximize By Default
 
-Multiple open windows can be very confusing for seniors.  This is especially try if the program was opened by accident.  By reducing the number of programs the user can choose from, this problem can be reduced.  If we go a step further and maximize each of the programs and then close it, windows will remember that setting.  The next time the program is opened it will be maximized.
+Multiple open windows can be very confusing for seniors.  This is especially true if the program was opened by accident.  By reducing the number of programs the user can choose from, this problem can be reduced.  If we go a step further and maximize each of the programs and then close it, windows will remember that setting.  The next time the program is opened it will be maximized.
 
 Combined with the Nexus launcher settings, the user will be presented with a maximized instance of each program they launch.
 
