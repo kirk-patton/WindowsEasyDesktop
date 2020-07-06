@@ -38,9 +38,8 @@ Right Click empty area of taskbar and select "Taskbar Settings" => "Automaticall
 
 ### Set Programs To Maximize By Default
 
-Multiple open windows can be very confusing for seniors.  This is especially true if the program was opened by accident.  By reducing the number of programs the user can choose from, this problem can be reduced.  If we go a step further and maximize each of the programs and then close it, windows will remember that setting.  The next time the program is opened it will be maximized.
+Multiple open windows can be very confusing for seniors.  This is especially true if the program was opened by accident.  By reducing the number of programs the user can choose from, this problem can be reduced.  If we go a step further and maximize each of the programs and then close it, Windows will remember that setting.  The next time the program is opened it will be maximized.
 
-Combined with the Nexus launcher settings, the user will be presented with a maximized instance of each program they launch.
 
 ## Remote Desktop
 
@@ -58,6 +57,9 @@ These are a source of confusion and disarray.  Turn off desktop icons. Add anyth
 * Right Click Desktop
   * View -> Show Icons (Toggle)
 
+Combined with the Nexus launcher settings, the user will be presented with a maximized instance of each program they launch.
+The desktop will be clean and free of distractions.
+
 ## Other Customizations
 
 The above customizations may be enough, but here are some more that may be useful.
@@ -67,6 +69,12 @@ The above customizations may be enough, but here are some more that may be usefu
   * ```HKEY_CURRENT_USER\Control Panel\Desktop```
   * DragHeight 100
   * DragWidth 100
+
+* Change Mouse Hover Threshold
+  * Open Registry
+  * ```HKEY_CURRENT_USER\Control Panel\Mouse```
+  * MouseHoverHeight 100
+  * MouseHoverWidth 100
 
 This will make Windows less sensitive to accidental drag operations by increasing the number of pixels traversed.  
 
@@ -78,5 +86,6 @@ Now, programs are started with a single click. No more adjusting double click sp
 
 * Install Microsoft [Power Toys](https://github.com/microsoft/PowerToys)
   * Disable All But "Power Toys Run"
-
+  * ALT-Spacebar (Spotlight)
+,
 This will give a Mac Spotlight Like Experience.  Maybe too complex for some people, but I like it...
