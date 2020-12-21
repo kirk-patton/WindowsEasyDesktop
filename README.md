@@ -89,3 +89,8 @@ Now, programs are started with a single click. No more adjusting double click sp
   * ALT-Spacebar (Spotlight)
 ,
 This will give a Mac Spotlight Like Experience.  Maybe too complex for some people, but I like it...
+
+### Windows Update Issues
+
+* One of the updates messed up the video driver which resulted in slow mouse stuttering
+* The solution was to update using the HP video drivers for the model laptop
